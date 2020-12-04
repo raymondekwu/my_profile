@@ -17,22 +17,6 @@ i {
 	margin: 5px;
 }
 
-.container {
-	width: 700px;
-    margin: 0 auto;
-}
-
-.icons-inline li {
-	display: inline;
-}
-
-.card-white {
-    background-color: turquoise;
-    padding: 20px 10px;
-    margin: 20px;
-    text-align: center;
-    border-radius: 4px;
-    box-shadow: 2px 5px 20px rgba(0,0,0,0.1);
 }
 body  {
 	background-color: darkgrey;
@@ -49,6 +33,24 @@ ul  {
 	list-style: none;
     padding: 0;
 }
+
+
+.container {
+	width: 700px;
+    margin: 0 auto;
+}
+
+.icons-inline li {
+	display: inline;
+}
+
+.card-white {
+    background-color: turquoise;
+    padding: 20px 10px;
+    margin: 20px;
+    text-align: center;
+    border-radius: 4px;
+    box-shadow: 2px 5px 20px rgba(0,0,0,0.1);
 
 .icons_inligne i{
 font-size: 40px
