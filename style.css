@@ -1,0 +1,56 @@
+h1, h2 {
+	color:blue;
+	font-family: 'Sansita Swashed', cursive;
+}
+
+a {
+	text-decoration: none;
+	color: darkgrey; 
+}
+
+a:hover {
+	color: black;
+}
+
+i {
+	font-size: 40px;
+	margin: 5px;
+}
+
+.container {
+	width: 700px;
+    margin: 0 auto;
+}
+
+.icons-inline li {
+	display: inline;
+}
+
+.card-white {
+    background-color: turquoise;
+    padding: 20px 10px;
+    margin: 20px;
+    text-align: center;
+    border-radius: 4px;
+    box-shadow: 2px 5px 20px rgba(0,0,0,0.1);
+}
+body  {
+	background-color: darkgrey;
+	font-family: cursive; monospace;
+    font-family: 'Crimson Text', serif;
+}
+
+img {
+	height: 150px;
+	border-radius: 50%;
+}
+
+ul  {
+	list-style: none;
+    padding: 0;
+}
+
+.icons_inligne i{
+font-size: 40px
+
+}
